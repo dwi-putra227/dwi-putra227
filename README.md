@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>About:</h1><br>
+<h3>About:</h3><br>
 <p>Hello, I'm Dwi putra widiono, a fifth-semester student at BINUS University with a GPA of 3.23 focusing on mobile app development, particularly using Kotlin and Swift. I have a strong passion for learning and constantly expanding my skill set. In addition to mobile development, I’m exploring other fields like UI/UX design in Figma and game development in Unity. I'm always open to collaboration and new challenges that help me grow as a developer and designer. </p>
 
 <!--
