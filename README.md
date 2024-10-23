@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h3>About:</h3>
-<p>Hello, I'm Dwi putra widiono, a fifth-semester student at BINUS University. Now I'm focusing on mobile app development, particularly using Kotlin and Swift. I have a strong passion for learning and constantly expanding my skill set. In addition to mobile development, I’m exploring other fields like UI/UX design in Figma and game development in Unity. I'm always open to collaboration and new challenges that help me grow as a developer and designer. </p>
+<p>Hello, I'm Dwi putra widiono, a fifth-semester student at BINUS University. Now I'm focusing on mobile app development, particularly using Kotlin and Flutter. I have a strong passion for learning and constantly expanding my skill set. In addition to mobile development, I’m exploring other fields like UI/UX design in Figma and game development in Unity. I'm always open to collaboration and new challenges that help me grow as a developer and designer. Recently, I’ve also been diving deeper into front-end development, working with web technologies like HTML, CSS, and JavaScript, aiming to create seamless and visually appealing user experiences. </p>
 
 <!--
 **dwi-putra227/dwi-putra227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
